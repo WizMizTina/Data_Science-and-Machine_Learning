@@ -1,2 +1,2 @@
 # Data_Science-and-Machine_Learning
-source file and csv file to run a fake news detector in scikit learn
+python exercises for beginners and a dataset to start a beginner friendly machine learning project
